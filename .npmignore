@@ -1,0 +1,7 @@
+.github
+dist
+node_modules
+scripts
+jsconfig.json
+package-lock.json
+yarn.lock
