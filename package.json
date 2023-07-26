@@ -25,7 +25,7 @@
     "prepublishOnly": "node scripts/build.js"
   },
   "peerDependencies": {
-    "tailwindcss": "^2.0.0"
+    "tailwindcss": "^2.0.0 || ^3.0.0"
   },
   "dependencies": {
     "flat": "^5.0.2"
