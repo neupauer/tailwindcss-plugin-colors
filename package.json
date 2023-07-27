@@ -1,6 +1,6 @@
 {
   "name": "@neupauer/tailwindcss-plugin-colors",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Tailwind CSS plugin for extracting theme colors as global variables.",
   "main": "src/index.js",
   "repository": {
